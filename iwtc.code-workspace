@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "backend",
+      "path": "."
+    },
+    {
+      "name": "frontend",
+      "path": "../iwtc-frontend-new"
+    },
+    {
+      "name": "nest-backend",
+      "path": "../iwtc-backend-nest"
+    }
+  ],
+  "settings": {}
+}
